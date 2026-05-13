@@ -124,7 +124,7 @@ You can run deepface for real time videos as well. Stream function will access y
 DeepFace.stream(db_path = "C:/database")
 ```
 
-<p align="center"><img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/stock-3.jpg" width="90%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/serengil/deepface/refs/heads/master/icon/deepface-realtime.jpg" width="90%"></p>
 
 Even though face recognition is based on one-shot learning, you can use multiple face pictures of a person as well. You should rearrange your directory structure as illustrated below.
 
@@ -134,13 +134,10 @@ user
 │   ├── Alice
 │   │   ├── Alice1.jpg
 │   │   ├── Alice2.jpg
-│   ├── Bob
-│   │   ├── Bob.jpg
+│   ├── Bob1.jpg
 ```
 
-Here, you can also find some real time demos for various facial recognition models:
-
-<p align="center"><img src="https://raw.githubusercontent.com/serengil/deepface/refs/heads/master/icon/deepface-realtime.jpg" width="90%"></p>
+Here, you can also find some real time demos for various models:
 
 | Task                 | Model    | Demo                                    |
 | ---                  | ---      | ---                                     |
