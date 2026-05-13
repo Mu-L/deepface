@@ -6,8 +6,9 @@
 [![Stars](https://img.shields.io/github/stars/serengil/deepface?color=yellow&style=flat&label=%E2%AD%90%20stars)](https://github.com/serengil/deepface/stargazers)
 [![Pulls](https://img.shields.io/docker/pulls/serengil/deepface?logo=docker)](https://hub.docker.com/r/serengil/deepface)
 [![License](http://img.shields.io/:license-MIT-green.svg?style=flat)](https://github.com/serengil/deepface/blob/master/LICENSE)
-[![DeepFace Cloud](https://img.shields.io/badge/%E2%98%81%EF%B8%8F-deepface%20cloud-00BFFF?style=flat&labelColor=555555)](https://deepface.dev?source=deepface_repo)
 [![DOI](http://img.shields.io/:DOI-10.35378/gujs.1794891-blue.svg?style=flat)](https://doi.org/10.35378/gujs.1794891)
+
+[![DeepFace Cloud](https://img.shields.io/badge/%E2%98%81%EF%B8%8F-deepface%20cloud-00BFFF?style=flat&labelColor=555555)](https://deepface.dev?source=deepface_repo)
 
 <!--
 [![Tests](https://github.com/serengil/deepface/actions/workflows/tests.yml/badge.svg)](https://github.com/serengil/deepface/actions/workflows/tests.yml)
